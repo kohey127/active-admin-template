@@ -46,8 +46,9 @@ group :development do
   # gem "spring"
 end
 
+gem "sprockets-rails"
+gem "sassc-rails"
 gem 'activeadmin'
 gem 'devise'
 gem 'cancancan'
-gem "sprockets-rails"
 gem 'seed-fu'
